@@ -19,7 +19,7 @@ const Left = styled.div`
   width: 180px;
 `;
 const Main = styled.div`
-  width: 980px;
+  /* width: 980px; */
 `;
 const Right = styled.div`
   width: 180px;
